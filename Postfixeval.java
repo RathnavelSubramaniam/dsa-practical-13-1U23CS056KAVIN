@@ -123,7 +123,7 @@ char po[] = postfix.toCharArray();
 
 
             //  
-System.out.println("a:"+a);
+//System.out.println("a:"+a);
 
 
               //  System.out.println("b:"+b);
